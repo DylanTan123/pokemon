@@ -1,2 +1,2 @@
 print("Hello, World!")
-print("labubu dubai chocolate")
+print("This is a est script.")
